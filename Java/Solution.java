@@ -1,5 +1,5 @@
 package Java;
-class Solution1 {
+class Solution {
     
     static public String customSortString(String order, String s) {
         String res = "";
@@ -23,8 +23,5 @@ class Solution1 {
             }
         }
         return is;
-    }
-    public static void main(String[] args) {
-        System.out.println(customSortString("cbafg", "abcd"));
     }
 }
