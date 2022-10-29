@@ -1,6 +1,5 @@
 package Java;
 class Solution {
-    
     static public String customSortString(String order, String s) {
         String res = "";
         for (int i = 0; i < order.length(); i++) {
