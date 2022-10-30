@@ -1,4 +1,6 @@
 
+//leetcode solution
+//Problem: https://leetcode.com/problems/custom-sort-string/
 function customSortString(order, s) {
     let res = "";
     for (let i = 0; i < order.length; i++) {
@@ -10,6 +12,7 @@ function customSortString(order, s) {
     }
     return res + s;
 }
+
 function isIn(s, str) {
     let is = false;
     for (let i = 0; i < s.length; i++) {

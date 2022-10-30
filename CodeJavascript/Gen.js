@@ -3,8 +3,6 @@ import * as fs from 'fs';
 import * as readline from 'readline';
 import { customSortString } from "./Solve.js";
 
-let fileName = 'Data/data.txt';
-
 //Generate 100 cases order and s
 function genData() {
     let res = "";
@@ -61,18 +59,26 @@ function genString(size, duplicates) {
     return res;
 }
 //Generate a txt with all the cases
-function createDoc() {
-    fs.writeFileSync(fileName, genData(), 'utf8', (error, text) => {
-        if (error) throw error
-        else console.log("Los archivos han sido generados :)");
+function createDoc(fileName, data) {
+    fs.writeFileSync(fileName, data, 'utf8', (error, text) => {
+        if (error) throw console.log("Se ha generado un error al crear los casos de prueba :(");
     });
 }
 
+//Read like BufferString by text file
+function readfile(fileName) {
+    let data = fs.readFileSync(fileName, (error, text) => {
+        if (error) throw error    
+    });
+
+    return data.toString();
+}
 
 //Read the generate cases and test
-async function processLineByLine() {
+async function processLineByLine(fileName) {
     const fileStream = fs.createReadStream(fileName);
     var res = "";
+    
     let n = 1;
     const rl = readline.createInterface({
         input: fileStream,
@@ -85,13 +91,15 @@ async function processLineByLine() {
     }
     return res;
 }
+
 //Read the data by the cases in txt file generated
 function getOrderS(line, n) {
     var splited = line.split(" ");
-    console.log("\nCase ".red + n.toString().red + '\n' + "Order = ".yellow + splited[0] + '\n' + "S = ".yellow + splited[1]);
-    console.log("Answer: ".yellow + customSortString(splited[0], splited[1]));
-    var res = customSortString(splited[0], splited[1]);
+    var res = "\nCase ".red + n.toString().red + '\n' 
+    + "Order = ".yellow + splited[0] + '\n' + "S = ".yellow + splited[1]
+    +'\n'+"Answer: ".yellow + customSortString(splited[0], splited[1]);
+
     return res;
 }
 
-export { createDoc, processLineByLine as solve };
+export { createDoc, processLineByLine as solve, genData, readfile};

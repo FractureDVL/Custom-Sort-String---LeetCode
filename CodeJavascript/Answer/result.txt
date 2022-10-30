@@ -1,0 +1,500 @@
+[31m
+Case [39m[31m1[39m
+[33mOrder = [39mfuchalsrdjypiqnetgzmx
+[33mS = [39mhzncsbypfdoqitkaugrwvlmxjeanyguwltkrcsjspmhscotbiccpojlsywoogxkhorqxxcogrwnidwgi
+[33mAnswer: [39mfuchalsrdjypiqnetgzmxbokwvwkobowookooww
+[31m
+Case [39m[31m2[39m
+[33mOrder = [39mjznmxytiebdqfprhgawvsolu
+[33mS = [39mtuhjzvfecykqbagpwxronsildmzxtdzirdijztwlrpgvkrqmslidakzpouzcia
+[33mAnswer: [39mjznmxytiebdqfprhgawvsoluckkkc
+[31m
+Case [39m[31m3[39m
+[33mOrder = [39mmcfpgnbvyi
+[33mS = [39meticv
+[33mAnswer: [39mcviet
+[31m
+Case [39m[31m4[39m
+[33mOrder = [39mjekbcxwroap
+[33mS = [39mvatyiwxgkdbznlufjcmqperhsolokpreciliafkvdshxvugriiwcxyjdgxwrgafuccjttnmiyewysimqxnrpagnetxfcmpmjbgmpfktslpgvbbaoqorpbwhzmiwgdzitijqlrniinclbpkbkakstfacuiveftxcedimgrivfkjgvqeitdloxgbvcpbcrwkdmwpvcurnq
+[33mAnswer: [39mjekbcxwroapvtyigdznlufmqhslilifvdshvugiiydggfuttnmiyysimqngntfmmgmftslgvqhzmigdzitiqlniinlstfuivftdimgivfgvqitdlgvdmvunq
+[31m
+Case [39m[31m5[39m
+[33mOrder = [39mzhinmsdo
+[33mS = [39mdgbusvjeflnwhkcxmtprqyaiozmfswjjatveomxmhyqmfpowpvgjoqljkuocrpoquzonrcshjqwasagqqdujcvirgugvpjrmobzlvzynwjiuvavdzzintyulhgbzvppkmzvstnqvftgrdycsbgmwfqwyzsnelqgnawnkerdwemakuofaq
+[33mAnswer: [39mzhinmsdogbuvjeflwkcxtprqyafwjjatvexyqfpwpvgjqljkucrpqurcjqwaagqqujcvrgugvpjrblvywjuvavtyulgbvppkvtqvftgrycbgwfqwyelqgawkerweakufaq
+[31m
+Case [39m[31m6[39m
+[33mOrder = [39mxte
+[33mS = [39mxwkyltpmqjhcruiebgzsovanfduuvaukmpveloqkifhrufkugdeznzszaitedqfhqew
+[33mAnswer: [39mxtewkylpmqjhcruibgzsovanfduuvaukmpvloqkifhrufkugdznzszaidqfhqw
+[31m
+Case [39m[31m7[39m
+[33mOrder = [39mtqrbdsj
+[33mS = [39maxfvrpbeymzuojsghlcktnwiqdgzniaitekplngotwslaywrfrstcbumliiyactwffxtrvnejeojfwwklahptwkagsnm
+[33mAnswer: [39mtqrbdsjaxfvpeymzuoghlcknwigzniaiekplngowlaywfcumliiyacwffxvneeofwwklahpwkagnm
+[31m
+Case [39m[31m8[39m
+[33mOrder = [39mopisyat
+[33mS = [39mvsncmzobpelgtrkfuhxdjwiaqytbainpxdpeigoutxdfggxo
+[33mAnswer: [39mopisyatvncmzbelgrkfuhxdjwqbnxdeguxdfggx
+[31m
+Case [39m[31m9[39m
+[33mOrder = [39mgoavj
+[33mS = [39mtizfuaeqhrvkwdcoxjbynpmlgsbpxccvthirtpqzugbktzjphccpiyyuhegbcmasmhomguatomkmejyfbmteeuxqcnckutzaehhjfrrxgnndrtccmlskxrcpuizeselnjalbamybbmvgtdxeqbdjcaidthfamcxjqnywnfedbnunwwhvjlcxvvzrongxlkegmizmxuvrt
+[33mAnswer: [39mgoavjtizfueqhrkwdcxbynpmlsbpxccthirtpqzubktzphccpiyyuhebcmsmhmutmkmeyfbmteeuxqcnckutzehhfrrxnndrtccmlskxrcpuizeselnlbmybbmtdxeqbdcidthfmcxqnywnfedbnunwwhlcxzrnxlkemizmxurt
+[31m
+Case [39m[31m10[39m
+[33mOrder = [39mgkbfyqwsuectraz
+[33mS = [39mlsthgjzuqowvpeifdcnyxkbrmabzyiqscdgakroaazclevncnbztkwxoowkrnujoluwwkwaouhfublcrlkulotbtaideijusjfawczytuamcspiwoclrryscjutrbv
+[33mAnswer: [39mgkbfyqwsuectrazlhjovpidnxmidolvnnxoonjolohllloidijjmpioljv
+[31m
+Case [39m[31m11[39m
+[33mOrder = [39miowtuqbncxskgyzr
+[33mS = [39mzrsdlnchqtvgoxikpufbwmyajemtouwkinhuejmswtvtfrbgptvulfiaxkuztdhfhxqjpchvyafhohvnzisrbkifatxokaaejriwzocriuykdwoezhomjjlomwlkiqblxoyacwtepicvxlqkdgsacfrgjslrkciolrmoktsruwhoecexvcerincpwaefirrytqrmv
+[33mAnswer: [39miowtuqbncxskgyzrdlhvpfmajemhejmvfpvlfadhfhjphvafhhvfaaaejdehmjjlmllaepvldafjllmheevepaefmv
+[31m
+Case [39m[31m12[39m
+[33mOrder = [39mqyidczaph
+[33mS = [39mvzrufqhlswegpkmtaiodbyjncxqpqsaewyzoxavoykphqwcnmpgyujjybedpztewmljyhbeedeswxzjawyaysmfoxbosiqbntzjexptabgenhgyiewrfxxfffeuazjdxjkjlmglwetommguoupjgfazbgqosnifvffiyh
+[33mAnswer: [39mqyidczaphvruflswegkmtobjnxsewoxvokwnmgujjbetewmljbeeeswxjwsmfoxbosbntjextbgengewrfxxfffeujxjkjlmglwetommguoujgfbgosnfvff
+[31m
+Case [39m[31m13[39m
+[33mOrder = [39msgrwlzmbeahntqkuicpd
+[33mS = [39mywnhfgkmcxrlpevzadqusjboitrrk
+[33mAnswer: [39msgrwlzmbeahntqkuicpdyfxvjo
+[31m
+Case [39m[31m14[39m
+[33mOrder = [39mbpcquvnifj
+[33mS = [39mbatqmcvzhifgskedxwpnouryljmobaznvptemuhifgwsvgthrtjaxsuhfwbxnyvqkblarkzeemayfxwmcxauceuqsruuxbqqodpfbcro
+[33mAnswer: [39mbpcquvnifjatmzhgskedxworylmoaztemhgwsgthrtaxshwxyklarkzeemayxwmxaesrxodro
+[31m
+Case [39m[31m15[39m
+[33mOrder = [39mwuftrlvyagbqjhoepc
+[33mS = [39myijtsegfblxmpwnzokqvudcarhdffbzinvksjarokkzssmihavfpzlwbvgdjdmaeyegmhjvcinforozsvianmztqzgiotzwss
+[33mAnswer: [39mwuftrlvyagbqjhoepcisxmnzkddzinkskkzssmizddmminzsinmzzizss
+[31m
+Case [39m[31m16[39m
+[33mOrder = [39meynp
+[33mS = [39mjonwlvmpgbfuskihdezxqyractttkymfogghuavkedoqlaslypzyxdxxhalbcypmbaqrxlecubyjwghacupncigvuxazawjoyzuhkfwpsv
+[33mAnswer: [39meynpjowlvmgbfuskihdzxqractttkmfogghuavkdoqlaslzxdxxhalbcmbaqrxlcubjwghacucigvuxazawjozuhkfwsv
+[31m
+Case [39m[31m17[39m
+[33mOrder = [39mukhvmjf
+[33mS = [39maybptgxsuofneqkwrdimzlvhjctpugchbpkyqfinfirerhzpzvriwxheqygclchmezswywzqgyucvrozkqtlsgpylkonqhvgbndzqmfsvfbnxirtmdbdoetnguxrkagwlotzynxraeujrobwwrpvowfcglbxvsspbtqtuuxqedmpafkftuqxvrdon
+[33mAnswer: [39mukhvmjfaybptgxsoneqwrdizlctpgcbpyqinirerzpzriwxeqygclcezswywzqgycrozqtlsgpylonqgbndzqsbnxirtdbdoetngxragwlotzynxraerobwwrpowcglbxsspbtqtxqedpatqxrdon
+[31m
+Case [39m[31m18[39m
+[33mOrder = [39mqibpmydfrv
+[33mS = [39mqfugeydabishwmlzoxcnptrkvjteugvdheo
+[33mAnswer: [39mqibpmydfrvugeashwlzoxcntkjteugheo
+[31m
+Case [39m[31m19[39m
+[33mOrder = [39muomfdntpqkvjcie
+[33mS = [39mdenhjakmribflypcogqu
+[33mAnswer: [39muomfdnpqkjcieharblyg
+[31m
+Case [39m[31m20[39m
+[33mOrder = [39mbdvrnjmwfgatpk
+[33mS = [39mglhempvrqnoubxdztfckwyaisjigwjlyjsjaqovetebudxdwhlzaednwyoiatsiiuxayrxrhdalrvbwavrdeaugqkoyivkfytmfxjvyymxhwjzqahwrcpqjaruayyyahkjhwzjyuaubrulvmjepxcqfhdnlcfdythbuagkexhbplzopgdwsezoqrdooubuqhk
+[33mAnswer: [39mbdvrnjmwfgatpklheqouxzcyisilysqoeeuxhlzeyoisiiuxyxhleuqoyiyxyyxhzqhcquyyyhhzyuuulexcqhlcyhuexhlzosezoqoouuqh
+[31m
+Case [39m[31m21[39m
+[33mOrder = [39mpa
+[33mS = [39mopragljtdmwufqezbkyixschvntgwnzuyjribbfjtaolyddfsbnljzbynjfjhrykofuduhuehrklgkafqlhqtllnaumcloehwuyxmvqawycvmpvvbjxnkahvnxpyfxyxloarejrsxiwxvgngqxdfueuiksnippkvcqo
+[33mAnswer: [39mpaorgljtdmwufqezbkyixschvntgwnzuyjribbfjtolyddfsbnljzbynjfjhrykofuduhuehrklgkfqlhqtllnumcloehwuyxmvqwycvmvvbjxnkhvnxyfxyxlorejrsxiwxvgngqxdfueuiksnikvcqo
+[31m
+Case [39m[31m22[39m
+[33mOrder = [39mdvisnurcmwfpxhogezqbtjayk
+[33mS = [39mazoeqwjlpiyutdfrvxbgsmnhckbanbeazbqamaapciwjxbcdqtmtaavhcqgjppxdhkqtpehrkclsvuwhpbvmaxxifqujzflpgztdqzyzgkgq
+[33mAnswer: [39mdvisnurcmwfpxhogezqbtjayklll
+[31m
+Case [39m[31m23[39m
+[33mOrder = [39mteqjlwvdmcobizhgpuy
+[33mS = [39mkfcsobxqzwgmhtlnedvyuijparmbpzqurijltvkduehciavgcjdccytedvadzqasusbslrcyzsacvpphxgidfregxmffezrenauqwlolkhfplsvckcaihwzdumxjgjejlcmsrrqqpvfkzwoxjutefvjhvbtxztprkfsxckbvoqfddauzlsoj
+[33mAnswer: [39mteqjlwvdmcobizhgpuykfsxnarrkaaasssrsaxfrxffrnakfskaxsrrfkxfxrkfsxkfas
+[31m
+Case [39m[31m24[39m
+[33mOrder = [39myitvlwejpcbhskqzdnur
+[33mS = [39mqtdjwcgruofmlhznxyaisekvbpbyxgkdjqokqhyxkdjpzczlexqzglvrvrucuppeoyrewfbguspgnarjhtzhtxzbaqpolagbtaztfwamgslbocqhwgqntfqdfwgxnlgmnewzithtsxspwkdebdpwxooqwdqopcyuzgwgrlmbepjykruuoahxxdd
+[33mAnswer: [39myitvlwejpcbhskqzdnurgofmxaxgoxxgofggaxaoagafamgogffgxgmxxoooggmoaxx
+[31m
+Case [39m[31m25[39m
+[33mOrder = [39mudscpnvhiomfqkyjzb
+[33mS = [39mydbepxrfiaqcoutmzkwsvnhgjlgxmwovgidpvkq
+[33mAnswer: [39mudscpnvhiomfqkyjzbexratwglgxwg
+[31m
+Case [39m[31m26[39m
+[33mOrder = [39mqfjxzrdbtgys
+[33mS = [39mxjgokmbthecawzyqslpnfdiuvrqiappiwiuhprxylrmviodjpbhlagvrbderxwfjmxqxfazeaywfycqmoqqdcugdfxyw
+[33mAnswer: [39mqfjxzrdbtgysokmhecawlpniuviappiwiuhplmviophlavewmaeawcmocuw
+[31m
+Case [39m[31m27[39m
+[33mOrder = [39mim
+[33mS = [39mtmgbxuhcfnskywzqaprdojilvezlbmzwisqysciwekmxgatyuskrlohjowezgmckbcjjjxocfotjjsxoioszubyorcqqliczeqqoepoeawqyoexlqkaauutsjnnkzukbkvybmsintoslfgrplrgzsaxvefxzrfbuwnlfww
+[33mAnswer: [39mimtgbxuhcfnskywzqaprdojlvezlbzwsqyscwekxgatyuskrlohjowezgckbcjjjxocfotjjsxooszubyorcqqlczeqqoepoeawqyoexlqkaauutsjnnkzukbkvybsntoslfgrplrgzsaxvefxzrfbuwnlfww
+[31m
+Case [39m[31m28[39m
+[33mOrder = [39mofxsprzumydbkgwacie
+[33mS = [39maquxsljeiphmdvknwygrbotcfzrqjgzhvkfyitvjusmmplmeqoutiyfnwjvovwwnqoresbyjjrrykwloawdaofvzhuaurxatbhhuxqhaqovbxcbaalqsrzuykqzgocyilakhkrgavdgzezhsumqcsrbpsqqeowaoczjntcocgaaeqbbzdwiecpgdgpggnf
+[33mAnswer: [39mofxsprzumydbkgwacieqljhvntqjhvtvjlqtnjvvnqjjlvhthhqhqvlqqlhvhqqqjntqn
+[31m
+Case [39m[31m29[39m
+[33mOrder = [39mnzwsrkqfmylxvjbdchatp
+[33mS = [39mjzcfedmsixbgyltvnkuqophwraqoaxikcvsshaqgbkogyybkzrcqpvltmtsutyyycowfzhaewhhlkhqsljbbsoykjgxrhgzvfsgzqd
+[33mAnswer: [39mnzwsrkqfmylxvjbdchatpeiguooigoguoeoggg
+[31m
+Case [39m[31m30[39m
+[33mOrder = [39mfvqtnpgmjucazdreiykwhos
+[33mS = [39mgqaobpxywfrdjekunzhtvclims
+[33mAnswer: [39mfvqtnpgmjucazdreiykwhosbxl
+[31m
+Case [39m[31m31[39m
+[33mOrder = [39mkfvieojsznrbut
+[33mS = [39msdyvubmrwizkgajntfxqlepcohrdbayigevuoerwjxjkowowbqwlfgdjgljnbtipjgezhbqndniwpfzzjbztcmgwczvgzynuhjkmwkk
+[33mAnswer: [39mkfvieojsznrbutdymwgaxqlpchdaygwxwwqwlgdglpghqdwpcmgwcgyhmw
+[31m
+Case [39m[31m32[39m
+[33mOrder = [39mgcyzpbemjqvnhr
+[33mS = [39mgpwnbyihvkculrqatdfmsjz
+[33mAnswer: [39mgcyzpbmjqvnhrwikulatdfs
+[31m
+Case [39m[31m33[39m
+[33mOrder = [39mjsdrwczqhunfyxmbpkagotei
+[33mS = [39mkhwsjuxidtpnzfevlbgomacryqgdaojichktgzhqydxdgaqxoxmdlkzzzgzfusqhqmebgugezpecdsyxjnglpldvfnxlterdxdmmfvlfxuipzwcmubs
+[33mAnswer: [39mjsdrwczqhunfyxmbpkagoteivllllvlvl
+[31m
+Case [39m[31m34[39m
+[33mOrder = [39mdkv
+[33mS = [39miguwlckqynhbvmtdjexoszrafpptjodjfngggyzdawmwstesfwnzdvtvxgcakrykgzgbpkqrdpbmgxvvbnyukrhzkkzvqsygypotbdrbmbpzotoyvduqzsxxwbxlethiwarltnoxmlghezrttfwmsy
+[33mAnswer: [39mdkviguwlcqynhbmtjexoszrafpptjojfngggyzawmwstesfwnztxgcarygzgbpqrpbmgxbnyurhzzqsygypotbrbmbpzotoyuqzsxxwbxlethiwarltnoxmlghezrttfwmsy
+[31m
+Case [39m[31m35[39m
+[33mOrder = [39mejqukn
+[33mS = [39mvxzpwusrkolaemnjbdqhyfigctlaovxapberenvkdwtstutbrhrzvyokufrvvlpkcsouqctovrwyjkqvcaccomuqgzfiqkpehzcucit
+[33mAnswer: [39mejquknvxzpwsrolambdhyfigctlaovxapbrvdwtsttbrhrzvyofrvvlpcsoctovrwyvcaccomgzfiphzccit
+[31m
+Case [39m[31m36[39m
+[33mOrder = [39myimfjheas
+[33mS = [39mznvtkfqhdrjb
+[33mAnswer: [39mfjhznvtkqdrb
+[31m
+Case [39m[31m37[39m
+[33mOrder = [39muwph
+[33mS = [39mhaxkrfsyjnplodqvwegibmztculpgkafbinqmmvknocbesubgqpafnannjh
+[33mAnswer: [39muwphaxkrfsyjnlodqvegibmztclgkafbinqmmvknocbesbgqafnannj
+[31m
+Case [39m[31m38[39m
+[33mOrder = [39mbhfkgxutqajvemwdnroi
+[33mS = [39mjstlzhmiexgafqrwcbkyupnovdzbhwkmxomcuktdlaubkcwvbwwtuaqflsejmaehwammdpbmrnshrqyxwwvutwxfvyaqkjaedirnkkgugunjwvvf
+[33mAnswer: [39mbhfkgxutqajvemwdnroislzcypzclclspsyy
+[31m
+Case [39m[31m39[39m
+[33mOrder = [39mgpb
+[33mS = [39mgvnyqlojehwikdmsxrbpcfzatukvsmpverubilalnapvpolafldfrbkfbsdaxfeagbqolamgjitt
+[33mAnswer: [39mgpbvnyqlojehwikdmsxrcfzatukvsmveruilalnavolafldfrkfsdaxfeaqolamjitt
+[31m
+Case [39m[31m40[39m
+[33mOrder = [39mfb
+[33mS = [39mhxjunckbpgfdrivmzyaeotsqwlwhchjonxhltmorbfrmrkkrsgwvsalqumdkwqdakshxwnnehcvpskawdvzftmymsrlhkzjdlpujxlem
+[33mAnswer: [39mfbhxjunckpgdrivmzyaeotsqwlwhchjonxhltmorrmrkkrsgwvsalqumdkwqdakshxwnnehcvpskawdvztmymsrlhkzjdlpujxlem
+[31m
+Case [39m[31m41[39m
+[33mOrder = [39mafo
+[33mS = [39mcxksvdljqtobigw
+[33mAnswer: [39mocxksvdljqtbigw
+[31m
+Case [39m[31m42[39m
+[33mOrder = [39mpfqmzagbnstdkevx
+[33mS = [39mvfqbyxzkchawguptjreinsmldoyzyctyxgcccivtgtddhimtiae
+[33mAnswer: [39mpfqmzagbnstdkevxychwujriloyycycccihii
+[31m
+Case [39m[31m43[39m
+[33mOrder = [39mocrvpfudaienmxsyzhwkgqlj
+[33mS = [39mbmvgitfhauqkdwnplcsozyexjreoyjhgxpqbtunpsxguuuonrcozatcmkioklgomirxwtyvrsbrmedqnbnwfykcwviwopyoqogqvenkbtxztijiatoihwoqgisludkelzzzqghvovovsnlqjxeckd
+[33mAnswer: [39mocrvpfudaienmxsyzhwkgqljbtbtttbbbttt
+[31m
+Case [39m[31m44[39m
+[33mOrder = [39mvhoqrkixsmawbz
+[33mS = [39mcobaznhetgmklpydisqxrvjwfuszonpoqhdjahiussjkbxbpwjvexrdwgxdayubhojlvmhk
+[33mAnswer: [39mvhoqrkixsmawbzcnetglpydjfunpdjujpjedgdyujl
+[31m
+Case [39m[31m45[39m
+[33mOrder = [39mngcp
+[33mS = [39mcujsvfgzpwoneqrtidlkybmahxewdevbrjkbhfzqartahmlemkhjahekhpturablxwzeutzxsucyyxpfrvaxceejdyqelienpztkprvghopyjskwkzjyonjrotavythtuxddeujwwlekc
+[33mAnswer: [39mngcpujsvfzwoeqrtidlkybmahxewdevbrjkbhfzqartahmlemkhjahekhturablxwzeutzxsuyyxfrvaxeejdyqelieztkrvhoyjskwkzjyojrotavythtuxddeujwwlek
+[31m
+Case [39m[31m46[39m
+[33mOrder = [39mrpxwozksjafdmnyhuebtg
+[33mS = [39msxtwucrmnvhqboykjpleifgzadtbmdonanrodnzyzymafesabbujubsbyzrhqiglroooqumgralhyihmxfugxzxaytoantdjaatolvfakgbsmlccetbmrzpgeutivwlmjhrucfxzdpnhmlflejkjipasarsrmnnmuvjhxvyjko
+[33mAnswer: [39mrpxwozksjafdmnyhuebtgcvqliqilqlilvlccivlcllivv
+[31m
+Case [39m[31m47[39m
+[33mOrder = [39mmhwurkcvyjazei
+[33mS = [39mohijqektvgubmfdsrzwcxanlyppxneiwvkeajypguvvyhrajgdlytoalrfklddhxbxbqmpqmptihdiqlcvitsyadurjtaooisiwcyruzbglgickgalinyuhcyspfnmoubfpxjsoajwnclbqeknakpyvutiiyllcnhziteiwqzhsrmgrgpcglfpeb
+[33mAnswer: [39mmhwurkcvyjazeioqtgbfdsxnlppxnpggdltolflddxbxbqpqptdqltsdtoosbglgglnspfnobfpxsonlbqnptllntqsggpglfpb
+[31m
+Case [39m[31m48[39m
+[33mOrder = [39mfsbuqdlcwvz
+[33mS = [39msbfudnmkjopwvtrxzyieahcgqldzdbupiacvweqhwdcrxrhtkxuqxjyjtouwvffkabisvoeygewwlonbafwcrwefdjnknwkpznedncyncpbuvcvmkpgjougaoozsfkahqtpmrejplcqztnyspe
+[33mAnswer: [39mfsbuqdlcwvznmkjoptrxyieahgpiaehrxrhtkxxjyjtokaioeygeonarejnknkpnenynpmkpgjogaookahtpmrejptnype
+[31m
+Case [39m[31m49[39m
+[33mOrder = [39myxikzushvleqrjcgwfmpobntd
+[33mS = [39mxeqltmrjukdasgbvyzwcophnifotjewnzexaqmshtlshivuxmxrwu
+[33mAnswer: [39myxikzushvleqrjcgwfmpobntdaa
+[31m
+Case [39m[31m50[39m
+[33mOrder = [39mfuwiclehypjbrdozvatksmnxgq
+[33mS = [39mzhncmvjtyaexlpwqrsdofkuigboqlbdnuwrivjjghdwfgojonmqvzsqjgrpadcdyzfwhdnulkqkesujvemoheuigprmonqahzxxnliczhqurfvrrzfuytmmwsqfbyidxtczdbmbpigbdazumortndjdixgmacffgppwlmahelrbtqyllxgchsavhynbzvqtnb
+[33mAnswer: [39mfuwiclehypjbrdozvatksmnxgq
+[31m
+Case [39m[31m51[39m
+[33mOrder = [39msp
+[33mS = [39mmqshkwblpyxciuaetndgojrfvzaesspcyoygnxxtzccsmcvfbzktyfoljmdeexb
+[33mAnswer: [39mspmqhkwblyxciuaetndgojrfvzaecyoygnxxtzccmcvfbzktyfoljmdeexb
+[31m
+Case [39m[31m52[39m
+[33mOrder = [39mhyujd
+[33mS = [39mqitlrvdyujknacgoxzmswbpfehlhmzxgmbhcixjuspnjrpfkwrmjumsuwaqeggctnkgknodgv
+[33mAnswer: [39mhyujdqitlrvknacgoxzmswbpfelmzxgmbcixspnrpfkwrmmswaqeggctnkgknogv
+[31m
+Case [39m[31m53[39m
+[33mOrder = [39mljguozvbesctramwpnhdfiq
+[33mS = [39mwadtsknqpjuiyflgbr
+[33mAnswer: [39mljgubstrawpndfiqky
+[31m
+Case [39m[31m54[39m
+[33mOrder = [39mfqtdeimp
+[33mS = [39mkyvumhzgbendsjxpwqraofctliptej
+[33mAnswer: [39mfqtdeimpkyvuhzgbnsjxwraoclj
+[31m
+Case [39m[31m55[39m
+[33mOrder = [39mtmaghqbpzn
+[33mS = [39mayutbmzcpnsqekhfdrjioxlgwvejtdmddbemktkwtepfwofijtpbdesptcfsqkfhsalfzpzwxvvweavhgxhgfpxpzoxgmlarzbobyzagkehwdimqtuxyooytlaepjcxksidfalpyzkbisigepdzbihueaiwdsocurucbmankskszk
+[33mAnswer: [39mtmaghqbpznyucsekfdrjioxlwvejdddekkwefwofijdescfskfslfwxvvwevxfxoxlroykewdiuxyooylejcxksidflykisiediueiwdsocurucksksk
+[31m
+Case [39m[31m56[39m
+[33mOrder = [39mguyajewkcorlqixzbfvn
+[33mS = [39mdgovwrxhknutpzqaymlejfcisbhahnzxtsauegaqyugtzimiwyapcuwynvyaumasucrxzm
+[33mAnswer: [39mguyajewkcorlqixzbfvndhtpmshhtstmpmsm
+[31m
+Case [39m[31m57[39m
+[33mOrder = [39mfaseibyxkptcuhjwvz
+[33mS = [39mcwalpgfvzihdtjormuxeyksbnqfhdyermjrubyqafmcxqkuxcyzoduzpqfnhsengphncbnqlxazgbqvdhexophdoygoypgqqzqbcaexvpxsyyvqnsrtdlskdrlxhijzbzqyrawjhunonaqxxvksy
+[33mAnswer: [39mfaseibyxkptcuhjwvzlgdormnqdrmrqmqodqnngnnqlgqdodogogqqqqnrdldrlqrnonq
+[31m
+Case [39m[31m58[39m
+[33mOrder = [39mzdixlfqnpoysthkcmagburewjv
+[33mS = [39mjofdsmlakwzhyvgnucrbtexpqigokudrifslcsegzdhmsnlatjcolgimjbuhgkcqzbrhvyqrxlqphvgcxgzvofrmkcexcogwzkywqrhcrnzzvgizlqtztyldnjelgzbytiyvwpsrgkwvixbisvhmwejrjgtbcmayfwuuqrzj
+[33mAnswer: [39mzdixlfqnpoysthkcmagburewjv
+[31m
+Case [39m[31m59[39m
+[33mOrder = [39miyorhleazkjqmfd
+[33mS = [39mpilwjemydfquhrxscktagzvnboiuqfvbfjphguegikxvmntygryuounjrpnfqwrsrjngxcskcbaqeqtveujaoxokrxfhhrlqunnjhtwuhpyoagpbncquxesebxmtfccnzgijm
+[33mAnswer: [39miyorhleazkjqmfdpwuxsctgvnbuvbpgugxvntguunpnwsngxcscbtvuxxunntwupgpbncuxsbxtccng
+[31m
+Case [39m[31m60[39m
+[33mOrder = [39mxilrqdjtw
+[33mS = [39mzgamecufkriytvxqwhbsdlopjnqjhpxjeepdashqzlkjmflkvmlualrdhhwtzwqlzkjen
+[33mAnswer: [39mxilrqdjtwzgamecufkyvhbsopnhpeepashzkmfkvmuahhzzken
+[31m
+Case [39m[31m61[39m
+[33mOrder = [39mtrvgnhkfempdqcsjabwyil
+[33mS = [39mkzgrdjvmcsaoxqtpelwuby
+[33mAnswer: [39mtrvgkempdqcsjabwylzoxu
+[31m
+Case [39m[31m62[39m
+[33mOrder = [39mino
+[33mS = [39mglvuqsdyzrnoehwcxptikbmafjrzkccbwaaeuocwwqjancrhnbutctagqdgvtsiuwcabheikidayuvbvxtjkchqpwlfgqhdagponggfzpqnttsqhmumirqgbdure
+[33mAnswer: [39minoglvuqsdyzrehwcxptkbmafjrzkccbwaaeucwwqjacrhbutctagqdgvtsuwcabhekdayuvbvxtjkchqpwlfgqhdagpggfzpqttsqhmumrqgbdure
+[31m
+Case [39m[31m63[39m
+[33mOrder = [39mwmnhxokjs
+[33mS = [39mfqhrlsg
+[33mAnswer: [39mhsfqrlg
+[31m
+Case [39m[31m64[39m
+[33mOrder = [39mlpgrkyidjhnfoca
+[33mS = [39mfhgrcbiqzvmsaoywkexudpntljoohrlfwbeustmzfxdgorvtacrpqrhtivoajwiznnmckflidecetlgfzzzsxlzyimkuneygwafwlhvgeqflgvxpqunfatbcjkfrggoqzuqnblvsagwelwbfvpbcssrztuphsksmevjqqfbtdrtlci
+[33mAnswer: [39mlpgrkyidjhnfocabqzvmswexutwbeustmzxvtqtvwzmeetzzzsxzmuewwveqvxqutbqzuqbvswewbvbssztussmevqqbtt
+[31m
+Case [39m[31m65[39m
+[33mOrder = [39mqipalbwgfztso
+[33mS = [39mtfumwjqzyoblepkgxransdvihccfidwbzmdbdqlcnhixjtnpwsqpnxjikxdpldqphfqdkhwikgncaphpacszlxbtpxfkqgqwjycqitbmruieyekwkvbibeypwadquxhyfitaynalwlksgjqltnrsuqkbxcmensbynqnliwaisulzwpbsqsks
+[33mAnswer: [39mqipalbwgfztsoumjyekxrndvhccdmddcnhxjnnxjkxddhdkhknchcxxkjycmrueyekkveyduxhyynkjnrukxcmenynnuk
+[31m
+Case [39m[31m66[39m
+[33mOrder = [39maegnjt
+[33mS = [39mlqznmtesvcdwrj
+[33mAnswer: [39menjtlqzmsvcdwr
+[31m
+Case [39m[31m67[39m
+[33mOrder = [39mpxqcvdrbklwmfjhzaieuo
+[33mS = [39mzyraxqjwesmndtvfbhlgpkicouzmvxnynxcwkcjogtjpmhpnugctotmwxqdpgrjgucnpbqhk
+[33mAnswer: [39mpxqcvdrbklwmfjhzaieuoysntgnyngtngttggn
+[31m
+Case [39m[31m68[39m
+[33mOrder = [39mkv
+[33mS = [39mmfqovnkdaghpwbxsyrcljiteuzthrweqmguexluglyrinctbrckxuozqqbdoqcaauwhjylqwbhmypyudfyusotgtxybvjydrodknhqrmrwtckyuukuglwesfkofzlpeqmkotbpmvwmvuzvqylmoxznicsejaevltaopiopevmcvfftpouxnhkhu
+[33mAnswer: [39mkvmfqondaghpwbxsyrcljiteuzthrweqmguexluglyrinctbrcxuozqqbdoqcaauwhjylqwbhmypyudfyusotgtxybjydrodnhqrmrwtcyuuuglwesfofzlpeqmotbpmwmuzqylmoxznicsejaeltaopiopemcfftpouxnhhu
+[31m
+Case [39m[31m69[39m
+[33mOrder = [39mxvrbiejcqod
+[33mS = [39mivalygeupmhjcsqzfrwnboxtkdnaijzirzfcthwlwbgfhfhvjqgbeypieryevrtjsgzyfsnkucutadkbzgoa
+[33mAnswer: [39mxvrbiejcqodalygupmhszfwntknazzfthwlwgfhfhgypytsgzyfsnkuutakzga
+[31m
+Case [39m[31m70[39m
+[33mOrder = [39muqnjw
+[33mS = [39mrnawsjytkxhbceoipfmqgdzluvlppumpykqdqxkofzbjj
+[33mAnswer: [39muqnjwrasytkxhbceoipfmgdzlvlppmpykdxkofzb
+[31m
+Case [39m[31m71[39m
+[33mOrder = [39msxbmanuwcdozfeplkvqghirtjy
+[33mS = [39mhfokdlsvpnyxeqtiwmcgrujzbajejslnvgvbsqidnijtznrlorkbeebiogdgpluoqwaxgemplkjircpymifqwbvaodkzgaiibpmpxpkabftmkwxgfabekkdrhdifvsgfhufarxhifogxtneqyyydgcsaseovtvijuwsbxrupiyfwguoesdnxlipggtupspuuwbfby
+[33mAnswer: [39msxbmanuwcdozfeplkvqghirtjy
+[31m
+Case [39m[31m72[39m
+[33mOrder = [39muzrgotfapsbcmjkhdiy
+[33mS = [39mieumdtohbxgzakl
+[33mAnswer: [39muzgotabmkhdiexl
+[31m
+Case [39m[31m73[39m
+[33mOrder = [39mkoqlnewcizypmbsgajt
+[33mS = [39mqyvcsoaiwfexnkzmplghrujbdthwodemmgnjwggdednuuuqhtyzituqzvbfztvwfeavjreazhdazofmpqulnlbpyifmcfktivldzerhscvsketqtpmjxqqsmrdzdxkrrxsppdtctligerrwavxdbunyxvktgapsijwamklcfhwosnmkhpqisnahn
+[33mAnswer: [39mkoqlnewcizypmbsgajtvfxhrudhddduuuhuvfvfvrhdfuffvdrhvxrddxrrxdrrvxduxvfhhh
+[31m
+Case [39m[31m74[39m
+[33mOrder = [39mvezqf
+[33mS = [39myreqwnuzbvmcgxsakfdiltphjoufbqwgsptrkkpcfhrygwroyqrbkzxjrimcahwbefgmdjbvosezgplcalurtyfxybpstgdesckldoquhftbieebdsvpmdeutjgcmbd
+[33mAnswer: [39mvezqfyrwnubmcgxsakdiltphjoubwgsptrkkpchrygwroyrbkxjrimcahwbgmdjbosgplcalurtyxybpstgdsckldouhtbibdspmdutjgcmbd
+[31m
+Case [39m[31m75[39m
+[33mOrder = [39mehluvsanbmiqgrwjkxoztcyd
+[33mS = [39muecdhkibjfwqavpxorgzlntmysoypbutuelqdpwlznbwzsgmlaxsigmncusxofgyzkbhgfcepilxntvrivolnmhheyczyhsdjhjasdvnkjewikncuzrxxtcesgzdraecprvlmgpjdxztkiqwitznw
+[33mAnswer: [39mehluvsanbmiqgrwjkxoztcydfpppffppp
+[31m
+Case [39m[31m76[39m
+[33mOrder = [39mgqtduy
+[33mS = [39medfyzkjmsixqwuaobcrpvthgnlplqvhjduhuqfuvpxuxdamryijlzhfmvxbyimyrupfcweltrvkalrskhevrrktvthfyiclxauuiujkyrj
+[33mAnswer: [39mgqtduyefzkjmsixwaobcrpvhnlplvhjhfvpxxamrijlzhfmvxbimrpfcwelrvkalrskhevrrkvhficlxaijkrj
+[31m
+Case [39m[31m77[39m
+[33mOrder = [39mwbduthmkxfeln
+[33mS = [39mbmkyzdaefrnpuqtchwjvigoslxmahy
+[33mAnswer: [39mwbduthmkxfelnyzarpqcjvigosay
+[31m
+Case [39m[31m78[39m
+[33mOrder = [39mrhpaujbgvmzilodt
+[33mS = [39mhsmaviltqobdkpjnxezyfugwcrosexuppwmszzfyytugrchyifqhlbclqllufancdjvbdmnwvwokajqfobufzqfcbpuqhjnyphjfsntvivvxeisfrpieefmwfrlxaclmfumeqwpacxuzmhsynluvmszzfjhiuupgirusywswvrlgkgwh
+[33mAnswer: [39mrhpaujbgvmzilodtsqknxeyfwcsexwsfyycyfqcqfncnwwkqffqfcqnyfsnxesfeefwfxcfeqwcxsynsfsywswkw
+[31m
+Case [39m[31m79[39m
+[33mOrder = [39mdzpevjcisbgy
+[33mS = [39mqdpvtenyxzscmohagbujrkiwlfzduidbirsv
+[33mAnswer: [39mdzpevjcisbgyqtnxmohaurkwlfur
+[31m
+Case [39m[31m80[39m
+[33mOrder = [39mmbcfryontqkxvujwhga
+[33mS = [39mnejuaszxtmhiocwfbgkpqdlrvymwszvzwagwcdfahynrvgauynmeuxjahjwyombbwwbdiktkmpdhwoirktwvloyhhqsdzkkprdmvcgmjfgnklamqevza
+[33mAnswer: [39mmbcfryontqkxvujwhgaeszipdlszzdedipdilsdzpdlez
+[31m
+Case [39m[31m81[39m
+[33mOrder = [39muqitf
+[33mS = [39mmwhxidarofqcevtbpsnzkglyjussfkorfgkdwsjaatvrpbpuqeqojvoewbvgufpeyxxoejmvwoaqohmhwklmkhsjcotloibvavpdxoumaisavgficqhyrubqdhwvjhnjtfcikgxobwpeknxnwusqoagvjibiqzuuupinatiyamr
+[33mAnswer: [39muqitfmwhxdarocevbpsnzkglyjsskorgkdwsjaavrpbpeojvoewbvgpeyxxoejmvwoaohmhwklmkhsjcolobvavpdxomasavgchyrbdhwvjhnjckgxobwpeknxnwsoagvjbzpnayamr
+[31m
+Case [39m[31m82[39m
+[33mOrder = [39mbmoctxgiryzd
+[33mS = [39mnavgrdifhoswjklbcyzxuempqtwwgqmfryyfijvpsdmpcsvynuluusizhfakagwbbtynraecegeiyvvktouzshpdxuqafaieyxzfwqxrfdkualbzkhxqkxhmxgoqpuyyztskuyombsz
+[33mAnswer: [39mbmoctxgiryzdnavfhswjkluepqwwqffjvpspsvnuluushfakawnaeeevvkushpuqafaefwqfkualkhqkhqpuskus
+[31m
+Case [39m[31m83[39m
+[33mOrder = [39mtpaefmozljwduvbnc
+[33mS = [39mcxqhnlrugetwzjimfaydopkbsvwkmwlrrljxmbgdntvoyjtavjgqrucrauyfjsfgudmhukuyhqyukfsleotojxbzzdisdolfoycjaxirxkdznzcvletuadmhkeolfuotjqvziycnmoowbznynmbezxlmjgnrmmjjvttemdhrrnlnpnceebopa
+[33mAnswer: [39mtpaefmozljwduvbncxqhrgiykskrrxgygqrrysghkyhqyksxisyxirxkhkqiyyxgrhrr
+[31m
+Case [39m[31m84[39m
+[33mOrder = [39mqbgjtelyhodzcr
+[33mS = [39mmwkjgetnoblusdhazypfxicrvqdsipnsjmknmwvnfzxvzkdruurzsjctsimbevaqmiumreuedcbjfuhpanuwmbhqhpcfsskafrjtfpswtvhokqkcmkoniyfebmfmwtqxtdcvowwwfxwiybhg
+[33mAnswer: [39mqbgjtelyhodzcrmwknusapfxivsipnsmknmwvnfxvkuussimvamiumufupanuwmpfsskaffpswvkkmknifmfmwxvwwwfxwi
+[31m
+Case [39m[31m85[39m
+[33mOrder = [39mahjgixesuydpmv
+[33mS = [39myeipvtgdzanoksqwjbrfcmxhuljoxfiugcepwtrylpralnmnl
+[33mAnswer: [39mahjgixesuydpmvtznokqwbrfclofcwtrlrlnnl
+[31m
+Case [39m[31m86[39m
+[33mOrder = [39meaudtopcgnvsfjqmlkhi
+[33mS = [39mclsrjfzxpqinamuygdbhvwotekglvydmxiezmyhybyrbwibridnfxxctpwhjgmtanqodrfkgylxctambhnodlxgte
+[33mAnswer: [39meaudtopcgnvsfjqmlkhirzxybwyxzyybyrbwbrxxwryxbx
+[31m
+Case [39m[31m87[39m
+[33mOrder = [39mxebs
+[33mS = [39majriomgyzqhscknbtudlfpevxwqjivtipbzrhtbuuxxdwljbqfkfcycatjduolbifukmgwmpzjurwrridwryrbrqqbsbhygafuhlppwoodktgsjnrzlbsfgrobiilyixvzeqvnhxsxjtrjbrrwvcgbyhkfjyzulvatrbgsxxflymmgiw
+[33mAnswer: [39mxebsajriomgyzqhckntudlfpvwqjivtipzrhtuudwljqfkfcycatjduolifukmgwmpzjurwrridwryrrqqhygafuhlppwoodktgjnrzlfgroiilyivzqvnhjtrjrrwvcgyhkfjyzulvatrgflymmgiw
+[31m
+Case [39m[31m88[39m
+[33mOrder = [39mcquebfvalkwoztnrmhg
+[33mS = [39msvyefjhqtrcoglziwub
+[33mAnswer: [39mcquebfvlwoztrhgsyji
+[31m
+Case [39m[31m89[39m
+[33mOrder = [39muylwa
+[33mS = [39mtljbgaeopdicvqwmykfurnsxhzrguvzddqibtkorfrgkzyclwxiidsamxirxdnhvyibuwgrwubceaxjzborrziqchzmgyjntaqhchrukyphtcjvuanvkxnzueveozrftunnvrxmgyoavdqmqrfqzgpjbazagrqcs
+[33mAnswer: [39muylwatjbgeopdicvqmkfrnsxhzrgvzddqibtkorfrgkzcxiidsmxirxdnhvibgrbcexjzborrziqchzmgjntqhchrkphtcjvnvkxnzeveozrftnnvrxmgovdqmqrfqzgpjbzgrqcs
+[31m
+Case [39m[31m90[39m
+[33mOrder = [39mquzg
+[33mS = [39mdixfqskrhmeonzbatvpguyjwlcdmtkmkyqqhnogoxxsaxwtywulrtypskhxdeiugb
+[33mAnswer: [39mquzgdixfskrhmeonbatvpyjwlcdmtkmkyhnooxxsaxwtywlrtypskhxdeib
+[31m
+Case [39m[31m91[39m
+[33mOrder = [39mtqglyvrwdihmoespxcaznju
+[33mS = [39mkqfvnuxajylsdrgpzhmtbiocewtvpeizidmwfvkqdljqcqjyhdvjqxzzewvplgjagdtnukwkblwhytisvzquewxdmycrfiaysdomxez
+[33mAnswer: [39mtqglyvrwdihmoespxcaznjukfbfkkkbf
+[31m
+Case [39m[31m92[39m
+[33mOrder = [39meivxhsjkulndrwt
+[33mS = [39mydhxecgwo
+[33mAnswer: [39mexhdwycgo
+[31m
+Case [39m[31m93[39m
+[33mOrder = [39mqcsalpeytb
+[33mS = [39msbagfoendhrupwtzkmlqjivxcyzmbtqjzvfoqynkliratjrsyjcnixxalpczraruzutkspaguntowvwtvzptokwebmginufrbgorldzveoqeyshyuqxfeamqfxolznlcovdfrvfirjgcchzobwjaezneooxgguctyfwxanxhhqikcocmajik
+[33mAnswer: [39mqcsalpeytbgfondhruwzkmjivxzmjzvfonkirjrjnixxzrruzukgunowvwvzokwmginufrgordzvohuxfmfxoznovdfrvfirjghzowjznooxggufwxnxhhikomjik
+[31m
+Case [39m[31m94[39m
+[33mOrder = [39mpvwxrmquch
+[33mS = [39mpzuaknevslhmgtqxibrcfyjdowsn
+[33mAnswer: [39mpvwxrmquchzakneslgtibfyjdosn
+[31m
+Case [39m[31m95[39m
+[33mOrder = [39mcseq
+[33mS = [39mafisrkohybpeqwvczjxgtmdnluvhndqjgsyndgxkitweitxvqdmorwjdtcvyixwrhkevqanoo
+[33mAnswer: [39mcseqafirkohybpwvzjxgtmdnluvhndjgyndgxkitwitxvdmorwjdtvyixwrhkvanoo
+[31m
+Case [39m[31m96[39m
+[33mOrder = [39medahkmrownuzbgtspcy
+[33mS = [39muetmhrnpyxcgbqfokdwsjzlavijkknfbxocvwhljzqkibgzkooqyjwbrydowrslfrwjknmebenozhjvborvcbcycdvsehblaemeubhinb
+[33mAnswer: [39medahkmrownuzbgtspcyxqfjlvijfxvljqiqjlfjjvvvli
+[31m
+Case [39m[31m97[39m
+[33mOrder = [39mri
+[33mS = [39mdoqjpzgmsufltinwabeyxrvchkgbkpyjjqfmaytihvjumcrckxlg
+[33mAnswer: [39mridoqjpzgmsufltnwabeyxvchkgbkpyjjqfmaythvjumcckxlg
+[31m
+Case [39m[31m98[39m
+[33mOrder = [39mowcyndlhfmepxsvtrjab
+[33mS = [39mknwudbvgeszqrfajmcolixtyphscxoqzaoqjwkkaezmburfexfyhsyejvneihptzaxbjsnlechcmqlyrju
+[33mAnswer: [39mowcyndlhfmepxsvtrjabkugzqiqzqkkzuizqu
+[31m
+Case [39m[31m99[39m
+[33mOrder = [39mmlaztnifpcxuob
+[33mS = [39mekodpcyuztswqxjfvaiglmbnrhyaumwudovqsdbgpvoksytqkzrkyiqfvyifzkfjyxsovwtpxtamynkdqsiynbtpfuivjjqyijfnojgvyssjfuxfzbeuhjaclsnyxemwblrqjottksjcxvfzcikqpiomgwdxokyqxwgtmmuevxaqzrmrwnjeuewyop
+[33mAnswer: [39mmlaztnifpcxuobekdyswqjvgrhywdvqsdgvksyqkrkyqvykjysvwykdqsyvjjqyjjgvyssjehjsyewrqjksjvkqgwdkyqwgevqrrwjeewy
+[31m
+Case [39m[31m100[39m
+[33mOrder = [39mknvflciwetaxbh
+[33mS = [39mdgpezlmybaswvnhfjqcixturoktruejfvgteutbruyljbxdbkbaexsnbltnbadzkqkrtvaviufqtpgldxvfojxnqaubudqmrdjjzgcnaaeqgkhklswtemltdmnjutrapbnbjusxnjkhuxzfyhmoddoedvzbthijdshlhljzsieomewasgiajdhurhbmbdtgurey
+[33mAnswer: [39mknvflciwetaxbhdgpzmysjqurorujguruyjdsdzqruqpgdojquudqmrdjjzgqgsmdmjurpjusjuzymoddodzjdsjzsomsgjdurmdgury

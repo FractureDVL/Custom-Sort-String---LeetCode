@@ -1,10 +1,15 @@
 import { showMenu, stop } from './Interface.js';
 
+console.clear();
+
+//Keep the main running to receive a character, 0 to close*
 const main = async () => {
-    let opt = '';
+    var opt = '';
     do {
-        opt = await showMenu();
-        if(opt !== '0') await stop();
+            opt = await showMenu();
+            // console.log({ opt })
+            await stop();
+            
     } while (opt !== '0');
 
 }
