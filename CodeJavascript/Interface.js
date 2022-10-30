@@ -3,6 +3,8 @@ import { createDoc, solve, genData, readfile } from './Gen.js';
 import { customSortString } from './Solve.js';
 import * as colors from 'colors';
 import * as readline from 'node:readline';
+import { resolve } from 'path';
+import { get } from 'http';
 
 let fileName2 = 'Answer/result.txt';
 let fileName = 'Data/data.txt';
@@ -21,7 +23,7 @@ const showMenu = () => {
         console.log('3. '.green + 'Ejecutar caso especifico');
         console.log('4. '.green + 'Visualizar los casos de prueba');
         console.log('0. '.green + 'Salir\n');
-        
+
         const read = readline.createInterface({
             input: process.stdin,
             output: process.stdout
@@ -46,26 +48,23 @@ const stop = () => {
         });
     });
 }
+
 // read a case for specific order and S
-function getCase() {
-    let order = "";
+async function getCase() {
     let s = "";
+    let order = "";
     const read = readline.createInterface({
         input: process.stdin,
         output: process.stdout
     });
-
-
-    read.question('line', (opt) => {
-        console.log('Order = '.yellow);
+    read.question('Order =', (opt) => {
         order = opt;
-        read.close();
     });
-    read.question('line', (opt) => {
-        console.log('s = '.yellow);
+    read.question('Order =', (opt) => {
         s = opt;
-        read.close();
     });
+    read.close();
+    
     return customSortString(order, s);
 }
 
@@ -83,8 +82,7 @@ async function whatIdo(opt) {
             console.log("Ruta: " + fileName2.cyan);
             break;
         case '3':
-            getCase();
-            //hace falta
+            await getCase();
             break;
         case '4':
             console.log(readfile(fileName2));
@@ -94,8 +92,6 @@ async function whatIdo(opt) {
             break;
         default:
             console.log("Ingrese una opción válida");
-
-
     }
 }
 
