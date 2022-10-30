@@ -1,6 +1,7 @@
-package Java;
-class Solution {
-    static public String customSortString(String order, String s) {
+package CodeJava;
+
+public class Solve {
+    public String customSortString(String order, String s) {
         String res = "";
         for (int i = 0; i < order.length(); i++) {
             String str = order.charAt(i)+ "";
@@ -12,7 +13,7 @@ class Solution {
         return res + s;
     }
 
-    static public boolean isIn(String s,String str){
+    public boolean isIn(String s,String str){
         boolean is = false;
 
         for (int i = 0; i < s.length(); i++) {

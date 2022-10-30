@@ -1,4 +1,4 @@
-package Java;
+package CodeJava;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -69,7 +69,7 @@ public class Gen {
     public void createDoc(String str) {
         String text = str;
         try {
-            String fileName = "Java/Data/data.txt";
+            String fileName = "CodeJava/Data/data.txt";
             FileWriter fWriter = new FileWriter(fileName);
             fWriter.write(text);
             fWriter.close();
