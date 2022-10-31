@@ -76,9 +76,14 @@ function readfile(fileName) {
 
 //Read the generate cases and test
 async function processLineByLine(fileName) {
+
+    var start;
+    var end;
+    var total;
+    start = Date.now();
     const fileStream = fs.createReadStream(fileName);
     var res = "";
-    
+
     let n = 1;
     const rl = readline.createInterface({
         input: fileStream,
@@ -89,8 +94,13 @@ async function processLineByLine(fileName) {
         res = res + getOrderS(line, n) + '\n';
         n++;
     }
+    end = Date.now();
+    total = (end - start);
+    console.log(`Execution time: ${total} ms`);
+
     return res;
 }
+
 
 //Read the data by the cases in txt file generated
 function getOrderS(line, n) {
