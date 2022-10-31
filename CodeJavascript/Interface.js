@@ -20,8 +20,7 @@ const showMenu = () => {
         console.log('================================================'.green);
         console.log('1. '.green + 'Generar datos');
         console.log('2. '.green + 'Ejecutar datos y resultados');
-        console.log('3. '.green + 'Ejecutar caso especifico');
-        console.log('4. '.green + 'Visualizar los casos de prueba');
+        console.log('3. '.green + 'Visualizar los casos de prueba');
         console.log('0. '.green + 'Salir\n');
 
         const read = readline.createInterface({
@@ -49,25 +48,6 @@ const stop = () => {
     });
 }
 
-// read a case for specific order and S
-async function getCase() {
-    let s = "";
-    let order = "";
-    const read = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout
-    });
-    read.question('Order =', (opt) => {
-        order = opt;
-    });
-    read.question('Order =', (opt) => {
-        s = opt;
-    });
-    read.close();
-    
-    return customSortString(order, s);
-}
-
 //Receive a option to print or make things...
 async function whatIdo(opt) {
     switch (opt) {
@@ -82,9 +62,6 @@ async function whatIdo(opt) {
             console.log("Ruta: " + fileName2.cyan);
             break;
         case '3':
-            await getCase();
-            break;
-        case '4':
             console.log(readfile(fileName2));
             break;
         case '0':
@@ -94,5 +71,4 @@ async function whatIdo(opt) {
             console.log("Ingrese una opción válida");
     }
 }
-
 export { showMenu, stop };
