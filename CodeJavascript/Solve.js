@@ -39,5 +39,5 @@ function howMany(s,str) {
     }
     return is;
 }
-console.log(customSortString("cba","abcd"))
+// console.log(customSortString("cba","abcd"));
 export {customSortString};
