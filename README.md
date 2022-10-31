@@ -22,7 +22,7 @@ https://nodejs.org/en/
 
 
 ## Ejemplo de uso
-```Paso 1 ```
+```Paso 1```
 Verificar si se tiene instalado node mediante el comando.
 ```
 node --version
