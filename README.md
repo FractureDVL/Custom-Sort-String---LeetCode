@@ -1,7 +1,7 @@
 <div align ="center">
 	<br />
 	<p>
-		<a href="#"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" width="546" alt="leetcode" /></a>
+		<a href="#"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" width="243px" alt="leetcode" /></a>
 	</p>
 	<br />
 </div>
