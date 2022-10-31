@@ -38,7 +38,7 @@ cd CodeJavaScript
 ```Paso 3```
 Para ejecutar la aplicación utilizar el comando.
 ```
-node --version
+node Main.js
 ```
 
 ## Links
