@@ -8,8 +8,8 @@ function customSortString(order, s) {
         let str = order.charAt(i);
         if (isIn(s, str)) {
             let m = howMany(s,str);
-            while (m>0) {
-                res = res +
+            while (m > 0) {
+                res = res + str;
                 m--;     
             }
             s = s.replaceAll(str,"");
@@ -42,5 +42,5 @@ function howMany(s,str) {
     }
     return is;
 }
-// console.log(customSortString("cba","abcd"));
+console.log(customSortString("ozdxluebam","wyefucxjsznitalm"));
 export {customSortString};
