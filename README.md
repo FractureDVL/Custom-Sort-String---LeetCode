@@ -1,6 +1,6 @@
 <div align ="center">
 	<p>
-		<a href="#"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" width="400" alt="leetcode" /></a>
+		<a href="#"><img src="https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png" width="600" height = "190" alt="leetcode" /></a>
 	</p>
 </div>
 
@@ -22,11 +22,23 @@ https://nodejs.org/en/
 
 
 ## Ejemplo de uso
-
-Para ejecutarlo debe estar sobre el directorio `CodeJavaScript/`
-
+```Paso 1 ```
+Verificar si se tiene instalado node mediante el comando.
 ```
-node Main.js
+node --version
+```
+Si esta seguro de haber instalado node y se le genera el error «node no reconocido como comando interno o externo» seguir los pasos de esta página:
+https://bertofern.wordpress.com/2019/01/08/solucion-node-js-npm-no-reconocido-como-comando-interno-o-externo/
+
+```Paso 2```
+Para ejecutarlo debe estar sobre el directorio `CodeJavaScript/` en la terminal.
+```
+cd CodeJavaScript
+```
+```Paso 3```
+Para ejecutar la aplicación utilizar el comando.
+```
+node --version
 ```
 
 ## Links

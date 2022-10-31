@@ -19,6 +19,7 @@ function customSortString(order, s) {
     return res + s;
 }
 
+//Return a boolean value if str in s
 function isIn(s, str) {
     let is = false;
     for (let i = 0; i < s.length; i++) {
@@ -29,6 +30,8 @@ function isIn(s, str) {
     }
     return is;
 }
+
+//Return how many is str in s
 function howMany(s,str) {
     let is = 0;
     for (let i = 0; i < s.length; i++) {
