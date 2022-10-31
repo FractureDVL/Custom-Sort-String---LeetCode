@@ -42,5 +42,4 @@ function howMany(s,str) {
     }
     return is;
 }
-console.log(customSortString("ozdxluebam","wyefucxjsznitalm"));
 export {customSortString};
